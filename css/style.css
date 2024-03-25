@@ -1,5 +1,8 @@
 body {
-  background: red;
+  background: rgb(22, 85, 3);
 }
 
-
+h1 {
+  padding: 1rem;
+  color: white;
+}
